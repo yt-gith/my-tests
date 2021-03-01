@@ -7,3 +7,5 @@ print(ss)
 a = True
 print(sys.__name__)
 
+# добавляем какой то код
+print("oops")
